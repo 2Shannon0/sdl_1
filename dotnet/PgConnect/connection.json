@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Host=localhost;Username={0};Password={1};Database=sdlpz_1"
+  }
+}
