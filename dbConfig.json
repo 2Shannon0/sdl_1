@@ -2,6 +2,6 @@
     "user": "",
     "password": "",
     "host": "localhost",
-    "port": "5432",
-    "database": "sdl"
+    "port": "5433",
+    "database": "task_db"
   }

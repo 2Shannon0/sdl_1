@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "console.table": "^0.10.0",
     "pg": "^8.12.0"
   }
 }
